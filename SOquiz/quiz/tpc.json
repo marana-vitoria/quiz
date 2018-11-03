@@ -1,0 +1,164 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "S\u00e3o dispositivos marcados pelo armazenamentos de informa\u00e7\u00f5es;",
+                "S\u00e3o chips secund\u00e1rios no processamento de dados;",
+                "S\u00e3o chips respons\u00e1veis pela execu\u00e7\u00e3o de c\u00e1lculos, decis\u00f5es l\u00f3gicas e instru\u00e7\u00f5es;",
+                "S\u00e3o dispositivos unicamente composto pela ULA;",
+                ""
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 1,
+            "prompt": "1. O que s\u00e3o processadores, sobre a perspectiva de arquitetura?"
+        },
+        {
+            "answers": [
+                "Arquitetura e armazenamento; ",
+                "Multicores e buffer;",
+                "Pot\u00eancia e armazenamento;",
+                "Cache e core;",
+                ""
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 2,
+            "prompt": "2. Entre as caracter\u00edsticas a seguir, qual pode ser atribu\u00edda aos processadores modernos?"
+        },
+        {
+            "answers": [
+                "Instru\u00e7\u00f5es de m\u00e1quina em baixo n\u00edvel;",
+                "Instru\u00e7\u00f5es simples e eficientes;",
+                "Microprograma\u00e7\u00e3o;",
+                "Programa\u00e7\u00e3o em baixo n\u00edvel;",
+                ""
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 3,
+            "prompt": "3. A arquitetura Complex Instruction Set Computer possui in\u00fameros pilares. Entre os citados a seguir, qual pode ser associado a ela?"
+        },
+        {
+            "answers": [
+                "Instru\u00e7\u00f5es de m\u00e1quina em baixo n\u00edvel;",
+                "Microprograma\u00e7\u00e3o;",
+                "Instru\u00e7\u00f5es complexas e r\u00e1pidas;",
+                "Programa\u00e7\u00e3o em n\u00edvel intermedi\u00e1rio;",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 4,
+            "prompt": "4. A arquitetura Reduced Instruction Set Computing cont\u00e9m v\u00e1rias caracter\u00edsticas peculiares. Entre as referenciadas posteriormente, qual pode ser associado a ela?"
+        },
+        {
+            "answers": [
+                "Processador AMD 387;",
+                "Processador Intel 387 e 487;",
+                "Processador PowerPC;",
+                "Processador Intel 386;",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 5,
+            "prompt": "5. S\u00e3o exemplos de processadores que utilizam CISC?"
+        },
+        {
+            "answers": [
+                "Processador AMD 387;",
+                "Processador PowerPC 486;",
+                "Processador SPARC;",
+                "Processador AMD Opteron;",
+                ""
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 6,
+            "prompt": "6. S\u00e3o exemplos de processadores que utilizam RISC?"
+        },
+        {
+            "answers": [
+                "Intel, Motorola e Samsung;",
+                "Apple, AMD e Samsung;",
+                "IBM, Apple e LG;",
+                "Motorola, IBM e Apple;",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 7,
+            "prompt": "7. As empresas que utilizam a linha de processadores PowerPC s\u00e3o?"
+        },
+        {
+            "answers": [
+                "RISC",
+                "Intel",
+                "AMD",
+                "CISC",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 8,
+            "prompt": "8. Caracter\u00edsticas como, complexidade no compilador e controle hardwired, s\u00e3o marcas de qual arquitetura de processador?"
+        },
+        {
+            "answers": [
+                "ADD A, B, 7",
+                "ADD A, B[5], 7",
+                "ADD A, R1[5], 7",
+                "ADD R1, R2, C",
+                ""
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 9,
+            "prompt": "9. Qual das instru\u00e7\u00f5es representa o modo de endere\u00e7amento indexado?"
+        },
+        {
+            "answers": [
+                "Arquitetura Load\/Store;",
+                "Arquitetura Registrador-Mem\u00f3ria;",
+                "Arquitetura de pilha;",
+                "Arquitetura baseada em Acumulador;",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/a.png",
+            "number": 10,
+            "prompt": "10. Qual das arquiteturas dos conjuntos de instru\u00e7\u00f5es permite que a ULA execute opera\u00e7\u00f5es envolvendo dois registradores indicados pela instru\u00e7\u00e3o?"
+        }
+    ]
+}
